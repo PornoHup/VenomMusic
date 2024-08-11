@@ -29,7 +29,7 @@ OWNER_ID = int(getenv("OWNER_ID", "6634423600"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "nezrinwa")
+HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "nezrinnwa")
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", "HRKU-9f135b26-5fa2-443d-aa24-3563d5e6c00a")
 
