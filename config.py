@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "24548143"))
 API_HASH = getenv("API_HASH", "6cba049c135a0393615878ea1e3c9443")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "7356145623:AAEfeB8yGbQMd_CIeAuMGUQalj6gob7MSXI")
+BOT_TOKEN = getenv("BOT_TOKEN", "6757828951:AAE9al3IyT3WowOFGHSqHK19hw077z6BF4o")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://agautevdragitevsvh:pJSptT6jE0pcw9a4@cluster0.de4uc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -42,7 +42,7 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/nezrinlogo")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/nezrinsupp")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/nezrinsupp")
 
 
